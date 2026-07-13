@@ -129,27 +129,22 @@ This dashboard transforms raw data into meaningful business insights, helping us
 
 ---
 
-# 📷 Dashboard Preview
+# 📸 Dashboard Preview
 
-### Page 1 – Executive Overview
+## Page 1: Executive Overview
+![Page 1](Dashboard%20Screenshots/IT_Jobs_Dashboard_PageNo_1.jpeg)
 
-(Add Screenshot Here)
+## Page 2: Salary Analysis
+![Page 2](Dashboard%20Screenshots/IT_Jobs_Dashboard_PageNo_2.jpeg)
 
-### Page 2 – Salary Analysis
+## Page 3: Job Market Insights
+![Page 3](Dashboard%20Screenshots/IT_Jobs_Dashboard_PageNo_3.jpeg)
 
-(Add Screenshot Here)
+## Page 4: Company Insights
+![Page 4](Dashboard%20Screenshots/IT_Jobs_Dashboard_PageNo_4.jpeg)
 
-### Page 3 – Job Market Insights
-
-(Add Screenshot Here)
-
-### Page 4 – Company Insights
-
-(Add Screenshot Here)
-
-### Page 5 – Interactive Job Explorer
-
-(Add Screenshot Here)
+## Page 5: Interactive Job Explorer
+![Page 5](Dashboard%20Screenshots/IT_Jobs_Dashboard_PageNo_5.jpeg)
 
 ---
 
