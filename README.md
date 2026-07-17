@@ -20,59 +20,6 @@ This dashboard transforms raw data into meaningful business insights, helping us
 
 ---
 
-# 📈 Dashboard Pages
-
-## 📄 Page 1 – Executive Overview
-- KPI Cards
-- Total Jobs
-- Total Companies
-- Average Salary
-- Average Company Rating
-- Average Experience
-- Jobs by City (Map)
-- Top Hiring Companies
-
----
-
-## 📄 Page 2 – Salary Analysis
-- Salary Tier Distribution
-- Highest Paying Job Roles
-- Company Size Distribution
-- Skill Domain Treemap
-- Average Salary by City
-
----
-
-## 📄 Page 3 – Job Market Insights
-- Top Job Roles
-- Top Hiring Cities
-- Work Mode Distribution
-- Experience Tier Analysis
-- Salary vs Experience Scatter Plot
-
----
-
-## 📄 Page 4 – Company Insights
-- Jobs by Company Rating
-- Top Rated Companies
-- Salary Disclosure Analysis
-- Interactive Job Details Table
-
----
-
-## 📄 Page 5 – Interactive Job Explorer
-- Dynamic Slicers
-- Interactive Job Listings
-- Filter by:
-  - City
-  - Company
-  - Job Role
-  - Experience
-  - Skill Domain
-  - Work Mode
-
----
-
 # 🛠️ Tools & Technologies
 
 - Microsoft Power BI
@@ -129,21 +76,72 @@ This dashboard transforms raw data into meaningful business insights, helping us
 
 ---
 
-# 📸 Dashboard Preview
+<===== Dashboard Pages📄 and Previews📸 =====>
 
-## Page 1: Executive Overview
+## 📄 Page 1 – Executive Overview
+- KPI Cards
+- Total Jobs
+- Total Companies
+- Average Salary
+- Average Company Rating
+- Average Experience
+- Jobs by City (Map)
+- Top Hiring Companies
+
+-----
+
+## Page 1: Preview📸
 ![Page 1](Dashboard%20Screenshots/IT_Jobs_Dashboard_PageNo_1.jpeg)
 
-## Page 2: Salary Analysis
+## 📄 Page 2 – Salary Analysis
+- Salary Tier Distribution
+- Highest Paying Job Roles
+- Company Size Distribution
+- Skill Domain Treemap
+- Average Salary by City
+
+---
+
+## Page 2: Preview📸
 ![Page 2](Dashboard%20Screenshots/IT_Jobs_Dashboard_PageNo_2.jpeg)
 
-## Page 3: Job Market Insights
+## 📄 Page 3 – Job Market Insights
+- Top Job Roles
+- Top Hiring Cities
+- Work Mode Distribution
+- Experience Tier Analysis
+- Salary vs Experience Scatter Plot
+
+---
+
+## Page 3: Preview📸
 ![Page 3](Dashboard%20Screenshots/IT_Jobs_Dashboard_PageNo_3.jpeg)
 
-## Page 4: Company Insights
+## 📄 Page 4 – Company Insights
+- Jobs by Company Rating
+- Top Rated Companies
+- Salary Disclosure Analysis
+- Interactive Job Details Table
+
+---
+
+## Page 4: Preview📸
 ![Page 4](Dashboard%20Screenshots/IT_Jobs_Dashboard_PageNo_4.jpeg)
 
-## Page 5: Interactive Job Explorer
+## 📄 Page 5 – Interactive Job Explorer
+- Dynamic Slicers
+- Interactive Job Listings
+- Filter by:
+  - City
+  - Company
+  - Job Role
+  - Experience
+  - Skill Domain
+  - Work Mode
+
+---
+
+## Page 5: Preview📸
 ![Page 5](Dashboard%20Screenshots/IT_Jobs_Dashboard_PageNo_5.jpeg)
 
 ---
@@ -152,9 +150,13 @@ This dashboard transforms raw data into meaningful business insights, helping us
 
 **Avi Saini**
 
-🎓 BCA Student
+🎓 BCA Student | 📊 Aspiring Data Analyst
 
-📊 Aspiring Data Analyst
+GitHub: https://github.com/MerrimentSaini
+
+LinkedIn: https://www.linkedin.com/in/avi-saini-15956b214
+
+
 
 ---
 
